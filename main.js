@@ -57,7 +57,7 @@
                     typeof conf.text.content !== "undefined" &&
                     typeof conf.text.top !== "undefined" &&
                     typeof conf.text.left !== "undefined" &&
-                    
+
                 )
             {
                 ctx.fillText(conf.text.content, conf.text.top, conf.text.left);
@@ -110,7 +110,7 @@
             {
                 console.log(e);
             }
-
+//something here. 
 
         }
 
